@@ -6,6 +6,10 @@ header {
     justify-content: center;
 }
 
+.developer-link:hover {
+    color: rgb(0, 127, 201);
+}
+
 .dsmeta-logo-container {
     display: flex;
     flex-direction: column;
